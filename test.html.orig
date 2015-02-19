@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Git Test</title>
+</head>
+
+<body>
+<<<<<<< HEAD
+<p>hara</p>
+=======
+<p>hara100</p>
+<p>hara3</p>
+>>>>>>> origin/master
+<p>hara3</p>
+<p>hara</p>
+<p>hara</p>
+<p>2</p>
+<p>2</p>
+<p>7</p>
+</body>
+</html>
